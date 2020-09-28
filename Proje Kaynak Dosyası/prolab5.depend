@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589467694 source:c:\users\osman\desktop\prolab 5\prolab5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

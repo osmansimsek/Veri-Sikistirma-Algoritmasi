@@ -1,0 +1,23 @@
+180202048 Osman ŞİMŞEK          180202054 Yener Emin ELİBOL
+Proje başlığı: Veri Sıkıştırma Projesi
+Veri Sıkıştırma projesini çalıştırmak için gerekli program: CodeBlocks
+Veri Sıkıştırma projesinin yazıldığı dil : c
+Projeyi çalıştırmak için uygulanıcak adımlar: 
+
+Program Metin.txt dosyasını okuyarak sıkıştırma yapar bu yüzden program çalıştırılmadan önce
+Metin.txt ye sıkıştırılması istenen metni girmeniz gerekmektedir.
+
+Program çalıştırıldığında cmd ekranında sıkıştırılmanın başladığını 
+ve sıkıştırma ile ilgili bilgiler verilmektedir.
+
+Projede lz77 algoritması kullanıldığından tokenler ile sıkıştırma yapılabilmektedir.
+Program çalıştırıldığında ekrana basılan bilgiler arasında bu tokenlerde yer almaktadır.
+Tokenler bastırıldıktan sonra normal metnin ve sıkıştırılan metnin boyutları ekrana basılmaktadır.
+Program sonlanmadan önce Ciktilz77.txt dosyası oluşturulup sıkıştırılan metin dosyaya basılmaktadır.
+
+
+           
+	          Veri Sıkıştırma Problemi
+ 
+
+
